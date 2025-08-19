@@ -1,5 +1,4 @@
-import { Container, Facebook, Twitter, Youtube } from "lucide-react";
-import { BsWhatsapp } from "react-icons/bs";
+import { Container, Facebook, Youtube} from "lucide-react";
 const Footer=()=>{
     return(
         <footer className="footer footer-horizontal footer-center p-10">
@@ -14,9 +13,6 @@ const Footer=()=>{
   </aside>
   <nav>
     <div className="grid grid-flow-col gap-4">
-      <a href="#" target="_blank" rel="noopener noreferrer">
-      <BsWhatsapp className="w-6 h-6 text-current"/>
-      </a>
       <a href="#" target="_blank" rel="noopener noreferrer">
       <Youtube className="w-6 h-6 text-current"/>
       </a>
