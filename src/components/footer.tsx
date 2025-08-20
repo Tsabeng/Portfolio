@@ -1,4 +1,4 @@
-import { Container, Facebook, Youtube} from "lucide-react";
+import { Container, Facebook, Github, Phone, Youtube} from "lucide-react";
 const Footer=()=>{
     return(
         <footer className="footer footer-horizontal footer-center p-10">
@@ -13,8 +13,12 @@ const Footer=()=>{
   </aside>
   <nav>
     <div className="grid grid-flow-col gap-4">
-      <a href="#" target="_blank" rel="noopener noreferrer">
-      <Youtube className="w-6 h-6 text-current"/>
+      
+      <a href="https://github.com/Tsabeng" target="_blank" rel="noopener noreferrer">
+      <Github className="w-6 h-6 text-current"/>
+      </a>
+      <a href="https://wa.me/237696412196" target="_blank" rel="noopener noreferrer">
+      <Phone className="w-6 h-6 text-current"/>
       </a>
       <a href="https://www.facebook.com/delphinole.manthole/" target="_blank" rel="noopener noreferrer">
       <Facebook className="w-6 h-6 text-current"/>
