@@ -1,9 +1,9 @@
 import Title from "./Title";
 
-import img1 from "../assets/projects/1.png"
-import img2 from "../assets/projects/2.png"
+import img1 from "../assets/projects/11.jpeg"
+import img2 from "../assets/projects/22.png"
 import img4 from "../assets/projects/4.png"
-import img3 from '../assets/projects/3.png'
+import img3 from '../assets/projects/33.png'
 
 import {Github, Video} from "lucide-react";
 
