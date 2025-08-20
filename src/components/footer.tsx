@@ -16,7 +16,7 @@ const Footer=()=>{
       <a href="#" target="_blank" rel="noopener noreferrer">
       <Youtube className="w-6 h-6 text-current"/>
       </a>
-      <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.facebook.com/delphinole.manthole/" target="_blank" rel="noopener noreferrer">
       <Facebook className="w-6 h-6 text-current"/>
       </a>
     </div>
