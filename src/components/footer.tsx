@@ -1,4 +1,4 @@
-import { Container, Facebook, Github, Phone, Youtube} from "lucide-react";
+import { Container, Facebook, Github, Phone} from "lucide-react";
 const Footer=()=>{
     return(
         <footer className="footer footer-horizontal footer-center p-10">
