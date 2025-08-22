@@ -24,7 +24,7 @@ const projects = [
         technologies: ['Django', 'DjangoRestFramework', 'Boostrap'],
         repolink: 'https://github.com/Tsabeng/Platform-de-gaz',
         image: img2,
-        demoLink:'#',
+        demoLink:'https://delphan.pythonanywhere.com/',
     },
     {
         id: 4,
