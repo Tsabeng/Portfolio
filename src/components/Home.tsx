@@ -10,7 +10,7 @@ const Home = () => {
                     Utilisant React et Django.
                     Contactez-moi si vous avez besoin de mes services.
                 </p>
-                <a href="" className="btn btn-accent md:w-fit ">
+                <a href="mailto:delphantsabeng13@gmail.com" className="btn btn-accent md:w-fit ">
                     <Mail className="w-5 h-5" />
                     Contactez-moi
                 </a>
